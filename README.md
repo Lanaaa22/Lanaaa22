@@ -69,3 +69,6 @@ Atualmente, trabalho com Modelagem (Gerando documentação, requisitos...). No e
     <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lanaaa22&langs_count=3&hide_values=true&locale=pt-br&theme=radical" />
   </picture>
 </p>
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
