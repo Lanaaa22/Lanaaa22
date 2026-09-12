@@ -15,7 +15,7 @@ $$
 $$
 
 <p align="center">
-Tenho 20 anos, moro na Serra - ES. Sou Técnica em Informática para Internet (integrado ao ensino médio pelo IFES) e estou no quinto período de Sistemas de Informação também no Instituto Federal. Gosto de matemática, front-end, cachorrinhos e amo tartarugas!! 
+Tenho 20 anos, moro na Serra - ES. Sou Técnica em Informática para Internet (integrado ao ensino médio pelo IFES) e estou no quinto período de Sistemas de Informação também no Instituto Federal. Gosto de matemática, front-end, cachorrinhos e tartarugas!! 
   <br>
   <br>
   <img width="480" height="270" alt="BestFriendsHugGIFbyTreehouseDirect" src="https://github.com/user-attachments/assets/8ec40b07-f595-4806-b939-4bb223846bfe" />
