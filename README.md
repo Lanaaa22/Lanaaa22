@@ -8,6 +8,8 @@ $$
   <a href="https://www.linkedin.com/in/ilannacardoso" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-yellow?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+#
+
 $$
 \Huge\mathsf{\color{blue}Ol\acute{a}\ Pessoal!!}
 $$
@@ -44,13 +46,13 @@ $$
 $$
 
 <p align="center">
-Atualmente, trabalho com Modelagem (Gerando documentação, requisitos...). No entanto, já trabalhei na implementação de um Chatbot utilizando o framework RASA (PLN e NLU). 
-
-Você pode conhecer meus projetos, que estão disponíveis nesse GitHub ❤️.
+Atualmente, trabalho com Modelagem (Gerando documentação, requisitos...). No entanto, já trabalhei na implementação de um Chatbot utilizando o framework Rasa (PLN e NLU). 
+<br> Você pode conhecer meus projetos, que estão disponíveis nesse GitHub ❤️.
 </p>
 
-<div align="center">
-<a href="https://github.com/Lanaaa22">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanaaa22&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanaaa22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+#
+
+<p align="center">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanaaa22&layout=compact&langs_count=7"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanaaa22&show_icons=true&include_all_commits=true&count_private=true"/>
+</p>
