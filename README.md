@@ -53,8 +53,19 @@ Atualmente, trabalho com Modelagem (Gerando documentação, requisitos...). No e
 #
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lanaaa22&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lanaaa22&theme=dracula" />
+  <picture>
+    <source
+        srcset="https://github-stats-extended.vercel.app/api?username=Lanaaa22&show_icons=true&include_all_commits=true&locale=pt-br&theme=radical&hide_rank=true"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" src="https://github-stats-extended.vercel.app/api?username=Lanaaa22&show_icons=true&include_all_commits=true&locale=pt-br&theme=radical&hide_rank=true" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
+    <source
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=Lanaaa22&langs_count=3&hide_values=true&locale=pt-br&theme=radical"
+        media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" src="https://github-stats-extended.vercel.app/api/top-langs?username=Lanaaa22&langs_count=3&hide_values=true&locale=pt-br&theme=radical" />
+  </picture>
 </p>
-
-![Snake animation](https://github.com/Lanaaa22/Lanaaa22/blob/output/github-contribution-grid-snake.svg)
