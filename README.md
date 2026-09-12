@@ -53,6 +53,8 @@ Atualmente, trabalho com Modelagem (Gerando documentação, requisitos...). No e
 #
 
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanaaa22&layout=compact&langs_count=7"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lanaaa22&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lanaaa22&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lanaaa22&theme=dracula" />
 </p>
+
+![Snake animation](https://github.com/Lanaaa22/Lanaaa22/blob/output/github-contribution-grid-snake.svg)
